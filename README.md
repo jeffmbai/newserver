@@ -1,1 +1,1 @@
-A React Native app using Socket.IO to receive product update notifications and NativeBase for theming.
+Express.js REST API serving the newoperator and newcustomer apps, socket.io and JWT
