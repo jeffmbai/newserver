@@ -1,1 +1,1 @@
-Dashboard for React native app news'letter using Socket.IO and NativeBase
+A React Native app using Socket.IO to receive product update notifications and NativeBase for theming.
